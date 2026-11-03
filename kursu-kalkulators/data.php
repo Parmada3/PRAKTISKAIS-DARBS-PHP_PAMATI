@@ -1,6 +1,9 @@
 <?php
 
-echo $kursi
+$kursi = [
+    "Nosaukums" => 
+];
+
 
 
 
