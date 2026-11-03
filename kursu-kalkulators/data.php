@@ -1,8 +1,7 @@
 <?php
 
-echo $kursi = [
-    "Nosaukums" => 
-];
+echo $kursi 
+
 
 
 
