@@ -1,6 +1,6 @@
 <?php
 
-$kursi = [
+echo $kursi = [
     "Nosaukums" => 
 ];
 
